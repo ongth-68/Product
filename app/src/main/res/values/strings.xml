@@ -9,6 +9,8 @@
     <string name="checkout">Checkout</string>
     <string name="placeOrder">Place Order</string>
     <string name="postProduct">Post Product</string>
+    <string name="sold_amount">Amount:</string>
+    <string name="date_sold">Date Sold:</string>
     <string-array name="paymentOption">
         <item>Pay by Cash</item>
         <item>Pay by E-wallet</item>
