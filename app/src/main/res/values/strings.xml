@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Product</string>
+    <string name="myr">RM</string>
+    <string name="buy">Buy</string>
+    <string name="productTotal">Product Total</string>
+    <string name="shippingTotal">Shipping Total</string>
+    <string name="sst">SST</string>
+    <string name="totalPayment">Total Payment</string>
+    <string name="checkout">Checkout</string>
+    <string name="placeOrder">Place Order</string>
+    <string name="postProduct">Post Product</string>
+    <string-array name="paymentOption">
+        <item>Pay by Cash</item>
+        <item>Pay by E-wallet</item>
+        <item>Pay by Debit/Credit Card</item>
+    </string-array>
+    <string-array name="deliveryOption">
+        <item>Delivery</item>
+        <item>Pick Up</item>
+    </string-array>
+</resources>
